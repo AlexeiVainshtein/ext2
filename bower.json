@@ -8,6 +8,6 @@
   "license": "MIT",
   "homepage": "",
 "dependencies": {
-    "paper-shadow": "git://github.com/Polymer/paper-shadow.git" 
+      "tinymce": "git://github.com/jozzhart/tinymce.git#4.0.0"
   }
 }
