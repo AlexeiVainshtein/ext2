@@ -9,7 +9,7 @@
   "homepage": "",
 "dependencies": {
       "tinymce": "git://github.com/jozzhart/tinymce.git#4.0.0",
-          "paper-shadow": "git://github.com/Polymer/paper-shadow.git"
+          "paper-shadow": "git://github.com/polymer/paper-shadow.git"
 
   }
 }
