@@ -8,6 +8,6 @@
   "license": "MIT",
   "homepage": "",
 "dependencies": {
-    "paper-shadow": "https://github.com/Polymer/paper-shadow.git" 
+    "paper-shadow": "git://github.com/Polymer/paper-shadow.git" 
   }
 }
